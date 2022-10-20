@@ -20,6 +20,13 @@
             font-family: 'Federo', sans-serif;
             font-size: 190px;
             font-weight: bold;
+            text-shadow: 4px 3px 13px rgba(0,0,0,0.6);
+        }
+        
+        p {
+            font-family: 'JetBrains Mono', monospace;
+            color: #ffffff;
+            text-transform: uppercase;
         }
     }
 }
